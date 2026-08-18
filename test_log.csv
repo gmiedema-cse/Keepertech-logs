@@ -62,3 +62,4 @@ Time,Board Name,Result,Reason,Battery V,Panel Tested,Panel V,Pressure Sensor V,P
 2026-08-18T19:14:40.700Z,CSE_Marine_46EA,FAIL,panel voltage 0.18V (must be >= 0.50V),3.82,Y,0.18,0.19,0.00,1,3.2,3.2,26188,26188
 2026-08-18T19:14:43.461Z,CSE_Marine_46EA,FAIL,panel voltage 0.22V (must be >= 0.50V),3.82,Y,0.22,0.17,-0.04,1,3.2,3.2,26188,26188
 2026-08-18T19:14:48.680Z,CSE_Marine_46EA,FAIL,panel voltage 0.34V (must be >= 0.50V),3.82,Y,0.34,0.19,0.00,1,3.2,3.2,26188,26188
+2026-08-18T19:14:51.261Z,CSE_Marine_46EA,FAIL,panel voltage 0.46V (must be >= 0.50V),3.82,Y,0.46,0.17,-0.04,1,3.2,3.2,26188,26188
